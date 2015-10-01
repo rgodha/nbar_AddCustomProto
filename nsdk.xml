@@ -1,0 +1,6 @@
+<nsdk>
+	<custom protocol_name = "myapp" app_id = "530" version= "1.1" >
+		<match>
+		</match>
+	</custom>
+</nsdk>
